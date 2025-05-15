@@ -1,0 +1,11 @@
+NN: best for non-linear relationships
+    MLPClassifier
+    Hyperparam tuning
+    Unpredictable initialization makes the curve move a lot
+    A lot more false positives on train but not on test
+    Very balanced
+
+DT: Min samples Split and Leaf are small
+    Train loss remained low but test started high, more train data pls
+    Larger diff between train and test
+    
